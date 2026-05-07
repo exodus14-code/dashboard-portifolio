@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11182a"/>
+      <stop offset="100%" stop-color="#1a2238"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#g)"/>
+  <circle cx="44" cy="48" r="8" fill="#2bd9a6"/>
+  <path d="M30 140 L66 96 L90 122 L130 70 L160 100" fill="none" stroke="#4f9cff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="96" y="174" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="700" fill="#e6ecf5">PF</text>
+</svg>
